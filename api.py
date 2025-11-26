@@ -17,7 +17,7 @@ client = OpenAI(api_key="EMPTY", base_url=LLM_API_URL)
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "ahir2004_69",
+    "password": "",
     "database": "rbi_data"
 }
 
